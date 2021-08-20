@@ -1,7 +1,7 @@
 import bs4
 import requests as req
 import re
-import backoff
+# import backoff
 import csv
 import pandas as pd
 import time

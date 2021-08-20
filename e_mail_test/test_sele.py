@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 
 from selenium import webdriver
-from selenium.webdriver import FirefoxOptions
+from selenium.webdriver import ChromeOptions
 
-opts = FirefoxOptions()
+opts = ChromeOptions()
 opts.add_argument("--headless")
-browser = webdriver.Firefox(options = opts)
+browser = webdriver.Chrome(options = opts)
 browser.get('http://www.baidu.com/')
+print(browser.page_source)
+browser.close()
