@@ -16,7 +16,7 @@ def getfreeRooms(reservDic):
         for room,inf in reservs.items():
             if(not inf):
                 tmpLst.append(room)
-            elif( (len(inf) == 1) and (inf['time'] == "00:00 - midnight")):
+            elif( (len(inf) == 1) and (inf[0]['time'] == "00:00 - midnight")):
                 tmpLst.append(room)
 
         freeRoomDic[building] = tmpLst
@@ -36,8 +36,8 @@ def main():
     freeDic = getfreeRooms(reserv)
 
     msg = EmailMessage()
-    content = "Hi there this is Alex. \n"
-    content.append(json.dumps(freeDic, indent=4))
+    content = "Hi there this is Alex. \n{}".format(json.dumps(freeDic, indent=4))
+    # content.append(json.dumps(freeDic, indent=4))
 
     msg.set_content(content)
     msg['Subject'] = 'Free Rooms Status'
