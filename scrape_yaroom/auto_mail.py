@@ -17,9 +17,9 @@ def getfreeRooms(reservDic):
             if(not inf):
                 tmpLst.append(room)
             elif( (len(inf) == 1) and (inf[0]['time'] == "00:00 - midnight")):
-                tmpLst.append(room)
+                tmpLst.append('*{}'.format(room))
 
-        freeRoomDic[building] = tmpLst
+        freeRoomDic[building] = " ".join(tmpLst)
 
     return freeRoomDic
                 
@@ -33,10 +33,12 @@ def main():
     Scraper = YaroomScrap()
     Scraper.standardScrape(weekdayIdx - 2) # 4 should be thursday 
     reserv = Scraper.getReservations()
+    with open('jsons/{}.json'.format(dt2), 'w') as fp:
+        json.dump(reserv, fp, sort_keys= True, indent=4)
     freeDic = getfreeRooms(reserv)
 
     msg = EmailMessage()
-    content = "Hi there this is Alex. \n{}".format(json.dumps(freeDic, indent=4))
+    content = "Here is the tmr that are free.\n{}".format(json.dumps(freeDic, indent=4))
     # content.append(json.dumps(freeDic, indent=4))
 
     msg.set_content(content)
