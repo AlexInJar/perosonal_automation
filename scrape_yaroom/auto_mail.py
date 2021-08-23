@@ -30,7 +30,7 @@ def getScrapedResults():
     # print(dt2)
 
     Scraper = YaroomScrap()
-    Scraper.standardScrape(weekdayIdx - 2) # 4 should be thursday 
+    Scraper.standardScrape(weekdayIdx + 1) # 4 should be thursday 
     reserv = Scraper.getReservations()
     with open('jsons/{}.json'.format(dt2.date()), 'w') as fp:
         json.dump(reserv, fp, sort_keys= True, indent=4)
@@ -79,4 +79,5 @@ def main():
     s.quit()
 
 if __name__ == '__main__':
-    main0()
+    # main0()
+    getScrapedResults()

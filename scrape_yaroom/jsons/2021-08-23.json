@@ -1,0 +1,634 @@
+{
+    "AB": {
+        "AB 1076 (Team Room)": [
+            {
+                "reserver": "EAP 101",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "GERMAN 101",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "14:45 - 16:00"
+            },
+            {
+                "reserver": "GS 721K",
+                "time": "16:15 - 17:30"
+            },
+            {
+                "reserver": "FRENCH 101",
+                "time": "17:45 - 20:00"
+            }
+        ],
+        "AB 1078 (Team Room)": [
+            {
+                "reserver": "EAP 101",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "14:45 - 16:00"
+            },
+            {
+                "reserver": "GS 721K",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "AB 1079 (Seminar 1A)": [
+            {
+                "reserver": "PSYCH  101-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "COMPSCI  203-001",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "AB 1082 (Team Room)": [
+            {
+                "reserver": "EAP 101",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "14:45 - 16:00"
+            }
+        ],
+        "AB 1084 (Team Room)": [
+            {
+                "reserver": "WOC 211",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "MATH 306",
+                "time": "14:45 - 17:15"
+            },
+            {
+                "reserver": "EAP 101",
+                "time": "18:00 - 19:15"
+            }
+        ],
+        "AB 1087 (Seminar 1B)": [
+            {
+                "reserver": "SOSC  101-001",
+                "time": "10:00 - 11:15"
+            }
+        ],
+        "AB 2021": [
+            {
+                "reserver": "Booked by Yifan Cao",
+                "time": "10:00 - 11:00"
+            },
+            {
+                "reserver": "Booked by Danni Huang",
+                "time": "15:45 - 16:45"
+            }
+        ],
+        "AB 2052 (Board Room)": [
+            {
+                "reserver": "Booked by Wei Yin",
+                "time": "15:00 - 17:00"
+            }
+        ],
+        "AB 2075 (next to Ball Room)": null,
+        "AB 2103 (Seminar 2A)": [
+            {
+                "reserver": "MATH  201-001",
+                "time": "10:00 - 11:15"
+            }
+        ],
+        "AB 2107 (Seminar 2B)": [
+            {
+                "reserver": "MATH  304-001",
+                "time": "08:30 - 11:00"
+            }
+        ],
+        "AB 2116 (Team Room)": [
+            {
+                "reserver": "tutoring",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "AB 2118 (Team Room)": [
+            {
+                "reserver": "CHEM  403-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "MATSCI  301-001",
+                "time": "12:00 - 14:30"
+            }
+        ],
+        "AB 2120 (Team Room)": null,
+        "AB 2122 (Team Room)": null,
+        "AB 2202 (Blue Room A)": [
+            {
+                "reserver": "Booked by Xuyan Gao",
+                "time": "10:00 - 11:30"
+            },
+            {
+                "reserver": "Booked by Wendie Lu",
+                "time": "16:00 - 17:00"
+            }
+        ],
+        "AB 2204 (Blue Room B)": null,
+        "AB 2206 (Blue Room C)": [
+            {
+                "reserver": "Booked by Wendie Lu",
+                "time": "13:30 - 14:30"
+            },
+            {
+                "reserver": "Booked by Yiwei Xiong",
+                "time": "16:30 - 17:30"
+            }
+        ],
+        "AB 2F Foyer by Ballroom": null,
+        "AB 3003 (near Mother Room)": null,
+        "AB 3031 (north section, 3F)": [
+            {
+                "reserver": "MEDIART  108-002",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "WOC  110-001",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "BIOL  314-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "AB 3033 (Seminar Room, north section, 3F)": [
+            {
+                "reserver": "BEHAVSCI 202",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "BIOL  308-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "ARHU  101-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "AB 3074 (Team Room)": null,
+        "AB 3076 (Team Room)": null,
+        "AB 3101 (Seminar 3A)": [
+            {
+                "reserver": "Faculty Chinese class",
+                "time": "11:00 - 12:00"
+            },
+            {
+                "reserver": "GS 721K",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "AB 3103 (Seminar 3B)": [
+            {
+                "reserver": "MEDIART  210-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "STATS  210-001",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "MEDIART  103-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "AB 3106 (Team Room)": [
+            {
+                "reserver": "reserved for Lijing Yan",
+                "time": "16:00 - 17:00"
+            }
+        ],
+        "AB 3107 (Seminar 3C)": [
+            {
+                "reserver": "reserved for Alex",
+                "time": "09:00 - 17:30"
+            }
+        ],
+        "AB 3108 (Team Room)": null,
+        "AB 3109 (Seminar 3D)": [
+            {
+                "reserver": "GLHLTH 702K",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "GLHLTH 571K",
+                "time": "14:00 - 15:15"
+            },
+            {
+                "reserver": "NEUROSCI  102-001",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "AB 3112 (Team Room)": null,
+        "AB 3114 (Team Room)": null,
+        "AB 3116 (Team Room)": null,
+        "AB 3118 (Team Room)": [
+            {
+                "reserver": "reserved for Alex",
+                "time": "09:00 - 17:30"
+            }
+        ],
+        "AB 3122 (south section, 3F)": null,
+        "AB Auditorium": null,
+        "AB Ballroom": null,
+        "AB Ballroom A": null,
+        "AB Ballroom B": null,
+        "Water Pavilion": null
+    },
+    "CC": {
+        "CC 1094 (Team Room)": null,
+        "CC 1095 (Conference Room)": [
+            {
+                "reserver": "GLHLTH  101-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "INFOSCI  104-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "PUBPOL  303-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "CC 1096 (Team Room)": null,
+        "CC 1098 (Team Room)": null,
+        "CC 1100 (Team Room)": [
+            {
+                "reserver": "tutoring",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "CC 1102 (Team Room)": [
+            {
+                "reserver": "tutoring",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "CC 1103 (Conference Room)": [
+            {
+                "reserver": "POLSCI  103-001",
+                "time": "08:30 - 11:00"
+            }
+        ],
+        "CC 1104 (Team Room)": [
+            {
+                "reserver": "tutoring",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "CC 1106 (Team Room)": [
+            {
+                "reserver": "WLS coaching",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "CC 1108 (Team Room)": [
+            {
+                "reserver": "WLS coaching",
+                "time": "00:00 - midnight"
+            }
+        ]
+    },
+    "IB": {
+        "IB 1010 (Seminar Room)": [
+            {
+                "reserver": "INFOSCI  102-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "MEDPHY 500K",
+                "time": "14:00 - 15:15"
+            },
+            {
+                "reserver": "GS 721K",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "IB 1011 (Telepresence Room)": [
+            {
+                "reserver": "MATH  307-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "PHYS  122-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "BIOL  202-001",
+                "time": "12:00 - 14:30"
+            }
+        ],
+        "IB 1012": [
+            {
+                "reserver": "LIT  107-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "MATH  303-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "HIST  210-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "MATH  306-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 1017": [
+            {
+                "reserver": "POLECON  105-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "CULANTH  304-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "BIOL  313-001",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "IB 1046 (Classroom)": [
+            {
+                "reserver": "CHEM  110-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "BIOL  110-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "MATH  205-001",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "STATS  401-001",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "MATH  101-001",
+                "time": "14:45 - 16:00"
+            },
+            {
+                "reserver": "MUSIC Class",
+                "time": "17:30 - 19:00"
+            }
+        ],
+        "IB 1047 (Classroom)": [
+            {
+                "reserver": "COMPSCI 201",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "STATS  102-001",
+                "time": "13:15 - 14:30"
+            }
+        ],
+        "IB 1050 (Classroom)": [
+            {
+                "reserver": "CHEM  201-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "BIOL  212-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "CULMOVE  201-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 1051 (Classroom)": [
+            {
+                "reserver": "ETHLDR  101-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "INSTGOV  490-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 1052 (Team Room)": null,
+        "IB 1053 (Team Room)": null,
+        "IB 1055 (Classroom)": [
+            {
+                "reserver": "GCHINA  301-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "LIT  109-001",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "HIST  206-001",
+                "time": "14:45 - 16:00"
+            },
+            {
+                "reserver": "GS 721K",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "IB 1056 (Classroom)": [
+            {
+                "reserver": "HIST  105-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "HIST  102-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "SOCIOL  111-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 2001 (Team Room)": [
+            {
+                "reserver": "meeting",
+                "time": "14:00 - 15:30"
+            },
+            {
+                "reserver": "NEUROSCI  301-001",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "IB 2013": [
+            {
+                "reserver": "CHEM 403",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "STATS  403-001",
+                "time": "14:45 - 16:00"
+            }
+        ],
+        "IB 2025 (Seminar Room)": [
+            {
+                "reserver": "ECE 581K",
+                "time": "10:30 - 11:45"
+            },
+            {
+                "reserver": "GCULS  106-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "PUBPOL  101-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 2026": null,
+        "IB 2027 (Team Room)": [
+            {
+                "reserver": "ECE TA Office Hour",
+                "time": "16:30 - 17:30"
+            }
+        ],
+        "IB 2028 ( Classroom)": [
+            {
+                "reserver": "ECON  101-001",
+                "time": "08:30 - 11:00"
+            },
+            {
+                "reserver": "ENVIRON 631K",
+                "time": "13:00 - 15:30"
+            }
+        ],
+        "IB 2050 (Seminar Room)": [
+            {
+                "reserver": "ECON  201-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "PUBPOL 870K",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "STATS  302-001",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "STATS 101 - 003",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 2069 (Team Room)": [
+            {
+                "reserver": "iAPSE Academic Meeting",
+                "time": "09:00 - 10:00"
+            },
+            {
+                "reserver": "MATH  406-001",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "STATS  305-001",
+                "time": "12:00 - 14:30"
+            },
+            {
+                "reserver": "GCULS  405-001",
+                "time": "14:45 - 17:15"
+            }
+        ],
+        "IB 2071 (Classroom)": [
+            {
+                "reserver": "MATH 202",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "ECE 550K",
+                "time": "13:15 - 14:30"
+            }
+        ],
+        "IB 3001": [
+            {
+                "reserver": "Booked by Wenyi Jiang",
+                "time": "10:30 - 14:00"
+            },
+            {
+                "reserver": "Booked by Jiali Cheng",
+                "time": "14:00 - 16:00"
+            }
+        ],
+        "IB 3017 (Team Room)": [
+            {
+                "reserver": "TA office hour",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "IB 3032 (Team Room)": [
+            {
+                "reserver": "tutoring",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "IB 3043": [
+            {
+                "reserver": "Booked by Yunfei Lu",
+                "time": "14:00 - 15:00"
+            }
+        ],
+        "IB 3068 (Team Room)": [
+            {
+                "reserver": "WOC  190-003",
+                "time": "13:15 - 14:30"
+            },
+            {
+                "reserver": "MEDIART  113-001",
+                "time": "16:15 - 17:30"
+            }
+        ],
+        "IB 3069": [
+            {
+                "reserver": "Booked by Maisie\uff08For the tutoring \uff09",
+                "time": "00:00 - midnight"
+            }
+        ],
+        "IB 3105 (Study Room)": null,
+        "IB 3106 (Classroom)": [
+            {
+                "reserver": "ENVIR  101-001",
+                "time": "08:30 - 09:45"
+            },
+            {
+                "reserver": "MATH 105",
+                "time": "10:00 - 11:15"
+            },
+            {
+                "reserver": "MATH  404-001",
+                "time": "11:45 - 13:00"
+            },
+            {
+                "reserver": "BIOL  320-001",
+                "time": "16:15 - 17:30"
+            },
+            {
+                "reserver": "ENVIRON 835K",
+                "time": "18:00 - 19:15"
+            }
+        ],
+        "IB Lecture Hall": null
+    }
+}
